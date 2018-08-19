@@ -7,4 +7,6 @@ Schema of the Four In A Row Game as found on my youtube channel:
 
 ![alt text](https://github.com/leonvandenbeukel/Four-In-A-Row/blob/master/Schema.png)
 
-TODO: More to come...
+### Warning
+
+This repo is not complete yet.. what's missing is the App but it might get you started.
