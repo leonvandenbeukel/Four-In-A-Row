@@ -1,5 +1,8 @@
 # Electronic DIY Four In A Row Game
 
+### Warning!
+
+This repo is not complete yet.. what's missing is the App but it might get you started.
 
 Schema of the Four In A Row Game as found on my youtube channel:
 
@@ -7,6 +10,4 @@ Schema of the Four In A Row Game as found on my youtube channel:
 
 ![alt text](https://github.com/leonvandenbeukel/Four-In-A-Row/blob/master/Schema.png)
 
-### Warning
 
-This repo is not complete yet.. what's missing is the App but it might get you started.
